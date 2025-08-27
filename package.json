@@ -2,6 +2,14 @@
   "name": "recreationalstats",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not op_mini all"
+  ],
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
@@ -27,6 +35,8 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "15.3.5",
+    "eslint-config-prettier": "^10.1.8",
+    "prettier": "3.6.2",
     "tailwindcss": "^4",
     "tw-animate-css": "^1.3.6",
     "typescript": "^5"

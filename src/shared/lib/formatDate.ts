@@ -1,3 +1,3 @@
 export function formatDate(date: Date) {
-    return date.toISOString();
+  return date.toISOString();
 }

@@ -1,3 +1,3 @@
 export default function PlayerList() {
-    return <div>PlayerList placeholder</div>;
+  return <div>PlayerList placeholder</div>;
 }

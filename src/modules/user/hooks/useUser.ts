@@ -1,4 +1,4 @@
 export function useUser() {
-    // placeholder state/logic
-    return { users: [] };
+  // placeholder state/logic
+  return { users: [] };
 }

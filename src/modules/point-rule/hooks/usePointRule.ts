@@ -1,4 +1,4 @@
 export function usePointRule() {
-    // placeholder state/logic
-    return { pointRules: [] };
+  // placeholder state/logic
+  return { pointRules: [] };
 }

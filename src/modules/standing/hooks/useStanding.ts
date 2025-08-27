@@ -1,4 +1,4 @@
 export function useStanding() {
-    // placeholder state/logic
-    return { standings: [] };
+  // placeholder state/logic
+  return { standings: [] };
 }

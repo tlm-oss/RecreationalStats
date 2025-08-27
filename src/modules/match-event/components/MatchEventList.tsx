@@ -1,3 +1,3 @@
 export default function MatchEventList() {
-    return <div>MatchEventList placeholder</div>;
+  return <div>MatchEventList placeholder</div>;
 }

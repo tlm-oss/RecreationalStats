@@ -1,4 +1,4 @@
 export function usePlayer() {
-    // placeholder state/logic
-    return { players: [] };
+  // placeholder state/logic
+  return { players: [] };
 }
