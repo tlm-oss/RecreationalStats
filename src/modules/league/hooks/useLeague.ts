@@ -1,4 +1,4 @@
 export function useLeague() {
-    // placeholder state/logic
-    return { leagues: [] };
+  // placeholder state/logic
+  return { leagues: [] };
 }

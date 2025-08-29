@@ -1,4 +1,4 @@
 export async function getMatchEvents() {
-    // placeholder API call
-    return [];
+  // placeholder API call
+  return [];
 }

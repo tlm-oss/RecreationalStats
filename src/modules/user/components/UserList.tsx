@@ -1,3 +1,3 @@
 export default function UserList() {
-    return <div>UserList placeholder</div>;
+  return <div>UserList placeholder</div>;
 }

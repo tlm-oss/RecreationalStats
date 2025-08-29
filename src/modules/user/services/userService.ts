@@ -1,4 +1,4 @@
 export async function getUsers() {
-    // placeholder API call
-    return [];
+  // placeholder API call
+  return [];
 }

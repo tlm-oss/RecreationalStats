@@ -1,4 +1,4 @@
 export interface PointRule {
-    id: string;
-    name: string;
+  id: string;
+  name: string;
 }

@@ -1,4 +1,4 @@
 export async function getLeagues() {
-    // placeholder API call
-    return [];
+  // placeholder API call
+  return [];
 }
