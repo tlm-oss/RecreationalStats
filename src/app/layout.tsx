@@ -21,6 +21,12 @@ export const metadata: Metadata = {
 };
 
 console.log(process.env.NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY);
+/**
+ * Root layout component that wraps the application with Clerk authentication, global fonts, site chrome, and an authentication header.
+ *
+ * @param children - The page content to render inside the main section.
+ * @returns The root React element containing a ClerkProvider, HTML document structure with configured fonts, NavBar, a header that shows sign-in/sign-up or the user button, and the provided main content.
+ */
 export default function RootLayout({
   children
 }: Readonly<{
